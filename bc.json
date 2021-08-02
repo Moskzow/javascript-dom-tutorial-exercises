@@ -110,7 +110,7 @@
         {
             "slug": "07-Create-DOM-list-of-li",
             "title": "07-Create-DOM-list-of-li",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Create-DOM-list-of-li",
             "translations": [
                 "es",
