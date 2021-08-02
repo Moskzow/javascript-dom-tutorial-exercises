@@ -66,7 +66,7 @@
         {
             "slug": "03-Change-Div-Background",
             "title": "03-Change-Div-Background",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Change-Div-Background",
             "translations": [
                 "es",
