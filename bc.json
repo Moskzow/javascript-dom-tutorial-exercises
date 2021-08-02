@@ -121,7 +121,7 @@
         {
             "slug": "08-Remove-DOM-Element-part-one",
             "title": "08-Remove-DOM-Element-part-one",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Remove-DOM-Element-part-one",
             "translations": [
                 "es",
