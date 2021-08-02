@@ -1,10 +1,6 @@
 {
     "port": 3000,
-<<<<<<< HEAD
     "address": "https://magenta-marmoset-isg116vi.ws-eu13.gitpod.io",
-=======
-    "address": "https://lavender-panda-i8ywrdal.ws-eu11.gitpod.io",
->>>>>>> bb949eb9d900baf171f6ec614fc715cb29801223
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -59,7 +55,7 @@
         {
             "slug": "02-Select-DOM-Element",
             "title": "02-Select-DOM-Element",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Select-DOM-Element",
             "translations": [
                 "es",
