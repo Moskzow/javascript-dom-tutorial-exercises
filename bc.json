@@ -99,7 +99,7 @@
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Create-DOM-Element-Second",
             "translations": [
                 "es",
