@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://amber-guppy-7dpssunv.ws-us03.gitpod.io",
+    "address": "https://magenta-marmoset-isg116vi.ws-eu13.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -44,7 +44,7 @@
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01-hello-world",
             "translations": [
                 "es",
